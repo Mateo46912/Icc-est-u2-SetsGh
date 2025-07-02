@@ -65,5 +65,9 @@ Para ejecutar el proyecto:
 ```
 ## 🖼️ Imagen
 ![alt text](image-1.png)
+
+### Uso de comparadores
+
+![alt text](image.png)
 ---
 
