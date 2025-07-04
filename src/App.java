@@ -1,6 +1,7 @@
 import java.util.Set;
 
 import Controllers.ContactoController;
+import Controllers.Ejercicios;
 import Controllers.Sets;
 
 public class App {
@@ -18,8 +19,8 @@ public class App {
         // runTreeSetConComparador(set);
         // System.out.println("--IMPRIMIMOS USANDO TREESET EMPLEANDO UN COMPARADOR SEGUN LA LONGUITUD DE LA PALABRA DE MAYOR A MENOR--");
         // runTreeSetConComparadorMayor(set);
-
-        ContactoController agenda = new ContactoController();
+        //ContactoController agenda = new ContactoController();
+        Ejercicios ejercicios = new Ejercicios();
         
     }
 
@@ -55,6 +56,7 @@ public class App {
         Sets palabrasSet = new Sets();
         Set<String> palabras = palabrasSet.construirTreeSetConComparadorMayor();
         for (String palabrasImp : palabras) {
+         
             System.out.println("-" + palabrasImp);
         }
     }

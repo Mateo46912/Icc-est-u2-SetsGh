@@ -69,5 +69,10 @@ Para ejecutar el proyecto:
 ### Uso de comparadores
 
 ![alt text](image.png)
+
+### Ejercicios de Logica
+
+
+![alt text](image-2.png)
 ---
 
